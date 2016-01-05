@@ -49,7 +49,7 @@
                 android:layout_height="match_parent"
                 android:text="9"
                 android:id="@+id/btn_num9"
-                android:textSize="30sp"/>
+                android:textSize="30sp" />
 
             <Button
                 android:layout_width="wrap_content"
